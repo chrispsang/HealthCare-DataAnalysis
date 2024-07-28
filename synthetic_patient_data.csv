@@ -1,0 +1,1001 @@
+Age,Gender,Height,Weight,Diagnosis,Outcome
+69,Male,163,59,Diabetes,1
+32,Male,188,65,Diabetes,1
+89,Female,174,103,Heart Disease,1
+78,Male,169,119,Hypertension,1
+38,Male,151,93,Diabetes,1
+41,Male,188,94,Hypertension,1
+20,Male,155,105,Diabetes,1
+39,Female,166,106,Diabetes,0
+70,Male,174,70,Diabetes,0
+19,Male,177,117,Diabetes,0
+47,Male,151,99,Healthy,0
+55,Male,184,82,Hypertension,0
+19,Female,186,56,Hypertension,0
+81,Female,154,119,Diabetes,1
+77,Male,150,64,Diabetes,1
+38,Male,189,81,Hypertension,1
+50,Male,161,69,Healthy,0
+75,Male,185,64,Heart Disease,0
+39,Male,194,97,Heart Disease,0
+66,Male,172,70,Hypertension,0
+76,Female,196,91,Diabetes,0
+59,Male,180,75,Diabetes,0
+77,Female,160,63,Healthy,1
+32,Female,159,106,Heart Disease,1
+79,Male,152,86,Healthy,0
+79,Female,163,107,Heart Disease,0
+64,Female,165,70,Hypertension,0
+79,Female,159,118,Heart Disease,0
+68,Female,178,52,Healthy,1
+72,Female,159,86,Healthy,0
+81,Female,161,98,Healthy,0
+20,Male,179,68,Hypertension,0
+68,Female,190,61,Heart Disease,0
+24,Female,150,110,Heart Disease,0
+38,Female,154,90,Healthy,1
+56,Male,169,82,Heart Disease,0
+35,Female,157,99,Diabetes,0
+21,Male,192,117,Diabetes,0
+77,Female,161,82,Diabetes,0
+31,Male,150,73,Heart Disease,1
+26,Male,169,110,Hypertension,0
+70,Female,177,110,Hypertension,0
+19,Female,192,77,Hypertension,0
+77,Male,186,107,Hypertension,0
+88,Female,196,92,Diabetes,0
+61,Male,186,90,Diabetes,0
+25,Male,161,88,Healthy,0
+64,Male,186,98,Heart Disease,1
+52,Male,198,66,Heart Disease,0
+53,Male,198,119,Hypertension,1
+67,Female,193,119,Diabetes,0
+21,Male,177,114,Hypertension,1
+19,Male,196,54,Healthy,1
+23,Female,164,51,Heart Disease,0
+71,Male,155,71,Heart Disease,1
+21,Female,193,106,Hypertension,0
+71,Female,169,115,Healthy,1
+80,Female,199,65,Heart Disease,0
+35,Male,163,100,Healthy,0
+61,Male,151,88,Healthy,0
+51,Male,158,89,Hypertension,1
+79,Female,186,87,Diabetes,0
+31,Male,169,109,Hypertension,0
+65,Female,175,108,Diabetes,1
+32,Male,178,59,Healthy,1
+89,Female,150,113,Diabetes,0
+79,Male,184,112,Healthy,0
+57,Male,155,98,Heart Disease,0
+70,Male,186,113,Heart Disease,0
+41,Female,154,81,Heart Disease,0
+43,Female,182,56,Hypertension,1
+77,Male,198,70,Hypertension,0
+58,Male,163,69,Healthy,0
+46,Female,161,75,Heart Disease,0
+32,Female,191,117,Hypertension,0
+62,Female,169,64,Heart Disease,0
+82,Male,199,63,Hypertension,0
+88,Female,173,76,Diabetes,0
+26,Male,192,89,Diabetes,1
+18,Female,183,107,Heart Disease,0
+25,Male,174,77,Healthy,1
+80,Female,199,75,Hypertension,1
+28,Female,178,112,Hypertension,0
+25,Female,188,115,Diabetes,1
+52,Female,180,74,Diabetes,0
+52,Female,196,52,Healthy,0
+50,Male,192,93,Healthy,1
+22,Female,199,91,Healthy,0
+58,Female,172,55,Heart Disease,0
+45,Female,193,88,Diabetes,1
+24,Male,187,101,Heart Disease,0
+89,Female,169,72,Diabetes,0
+29,Male,172,99,Diabetes,1
+51,Female,194,92,Hypertension,0
+50,Female,165,68,Diabetes,0
+65,Male,199,118,Diabetes,0
+40,Female,191,100,Heart Disease,0
+79,Male,157,60,Diabetes,0
+54,Male,199,61,Heart Disease,1
+61,Female,170,57,Healthy,0
+52,Male,150,73,Diabetes,0
+82,Female,157,90,Diabetes,1
+64,Female,178,85,Heart Disease,1
+20,Male,181,104,Healthy,0
+18,Male,187,58,Hypertension,0
+22,Male,154,96,Healthy,0
+31,Male,196,64,Heart Disease,0
+44,Female,171,97,Healthy,0
+26,Female,196,91,Heart Disease,0
+32,Male,183,109,Heart Disease,1
+59,Female,150,119,Hypertension,1
+68,Female,175,61,Diabetes,0
+80,Female,192,51,Heart Disease,0
+69,Female,159,56,Heart Disease,0
+21,Male,179,52,Hypertension,0
+40,Male,199,52,Heart Disease,0
+32,Female,167,76,Diabetes,1
+60,Male,166,89,Hypertension,0
+46,Male,175,82,Diabetes,0
+53,Male,157,50,Diabetes,1
+30,Female,196,57,Hypertension,0
+49,Female,189,81,Heart Disease,0
+88,Female,198,97,Diabetes,0
+76,Male,161,53,Diabetes,0
+45,Female,176,119,Diabetes,1
+83,Female,157,68,Diabetes,0
+59,Male,174,81,Hypertension,0
+62,Female,195,58,Hypertension,0
+79,Female,153,61,Healthy,1
+74,Male,182,60,Healthy,0
+23,Male,150,95,Diabetes,0
+45,Male,168,65,Heart Disease,0
+45,Female,180,50,Diabetes,0
+61,Female,165,112,Heart Disease,0
+47,Female,163,70,Diabetes,0
+79,Male,197,79,Healthy,0
+79,Male,154,62,Healthy,0
+18,Female,190,83,Heart Disease,1
+44,Female,175,53,Diabetes,0
+79,Male,177,77,Heart Disease,0
+20,Male,151,108,Healthy,0
+87,Male,199,76,Diabetes,1
+89,Male,155,118,Diabetes,0
+44,Female,158,74,Heart Disease,1
+26,Male,182,52,Hypertension,1
+79,Female,190,117,Heart Disease,0
+54,Female,174,74,Healthy,1
+68,Female,197,69,Healthy,0
+61,Male,162,83,Healthy,0
+41,Male,158,75,Healthy,1
+76,Male,162,54,Healthy,1
+49,Male,180,110,Hypertension,0
+69,Female,190,58,Diabetes,0
+79,Male,160,99,Heart Disease,0
+75,Male,153,55,Heart Disease,1
+69,Female,183,109,Healthy,0
+29,Male,187,93,Heart Disease,0
+56,Female,195,60,Healthy,0
+19,Female,153,115,Hypertension,0
+20,Female,187,96,Hypertension,1
+73,Female,168,52,Diabetes,0
+76,Female,155,79,Hypertension,1
+19,Female,183,70,Hypertension,0
+19,Female,167,77,Diabetes,1
+71,Female,162,111,Heart Disease,0
+18,Male,190,82,Healthy,0
+36,Male,172,84,Healthy,0
+19,Male,168,101,Heart Disease,0
+70,Male,194,83,Diabetes,0
+61,Female,160,90,Heart Disease,1
+49,Male,150,100,Hypertension,0
+87,Female,173,96,Diabetes,0
+49,Male,156,107,Diabetes,0
+85,Male,174,106,Diabetes,0
+72,Male,170,72,Healthy,0
+73,Female,164,97,Heart Disease,1
+34,Male,150,71,Diabetes,1
+55,Female,161,66,Diabetes,0
+41,Female,156,118,Diabetes,0
+86,Male,164,60,Heart Disease,0
+87,Male,170,64,Healthy,0
+28,Male,168,84,Hypertension,0
+33,Female,178,82,Healthy,0
+76,Male,174,65,Diabetes,0
+87,Female,182,83,Healthy,0
+20,Female,198,115,Healthy,1
+37,Male,181,89,Hypertension,0
+76,Male,198,77,Heart Disease,0
+53,Female,184,96,Heart Disease,0
+36,Female,193,88,Healthy,0
+84,Female,187,119,Healthy,1
+36,Male,175,69,Heart Disease,1
+37,Female,160,50,Heart Disease,1
+88,Male,184,112,Hypertension,0
+69,Female,157,116,Diabetes,1
+50,Female,195,53,Healthy,0
+57,Male,163,107,Heart Disease,1
+56,Female,159,74,Healthy,0
+18,Male,151,96,Healthy,1
+28,Male,195,87,Heart Disease,1
+74,Female,158,64,Hypertension,1
+67,Male,152,112,Healthy,0
+40,Male,170,70,Hypertension,0
+48,Female,175,106,Heart Disease,1
+59,Male,157,102,Diabetes,0
+24,Male,197,95,Diabetes,1
+33,Male,151,63,Healthy,0
+77,Female,155,66,Heart Disease,0
+19,Male,177,88,Hypertension,1
+18,Female,178,58,Healthy,0
+65,Female,175,55,Heart Disease,0
+29,Male,174,72,Heart Disease,0
+86,Male,161,108,Hypertension,0
+54,Male,154,95,Healthy,1
+49,Female,183,87,Heart Disease,0
+26,Male,197,63,Heart Disease,1
+36,Male,186,111,Heart Disease,1
+65,Male,164,84,Hypertension,0
+20,Male,193,68,Healthy,1
+37,Male,185,79,Healthy,0
+41,Female,164,74,Healthy,0
+71,Female,192,89,Healthy,1
+50,Male,197,63,Diabetes,0
+41,Male,172,75,Diabetes,0
+89,Male,155,71,Healthy,0
+53,Male,195,97,Hypertension,0
+55,Female,199,100,Diabetes,0
+42,Male,193,52,Heart Disease,1
+35,Female,192,91,Diabetes,0
+83,Female,194,68,Heart Disease,0
+71,Male,170,77,Healthy,0
+52,Female,172,94,Diabetes,0
+78,Female,192,112,Hypertension,0
+58,Female,165,68,Diabetes,0
+50,Female,196,96,Diabetes,0
+85,Male,164,63,Diabetes,0
+50,Male,174,87,Healthy,0
+31,Female,185,102,Hypertension,0
+38,Male,160,110,Diabetes,1
+65,Male,164,85,Hypertension,1
+37,Male,153,89,Healthy,0
+25,Male,170,79,Heart Disease,1
+24,Male,162,58,Diabetes,1
+84,Female,171,113,Hypertension,0
+34,Male,168,82,Hypertension,0
+50,Male,183,101,Healthy,1
+65,Male,163,63,Diabetes,1
+76,Male,153,102,Heart Disease,0
+39,Female,197,108,Hypertension,1
+47,Female,195,90,Diabetes,0
+55,Female,176,117,Heart Disease,1
+68,Female,178,117,Hypertension,1
+71,Male,196,57,Hypertension,0
+25,Female,177,51,Heart Disease,1
+44,Male,184,90,Heart Disease,0
+44,Male,157,104,Healthy,0
+38,Male,165,65,Diabetes,1
+47,Male,191,111,Diabetes,0
+45,Male,185,97,Healthy,0
+81,Female,179,79,Hypertension,0
+86,Female,167,61,Heart Disease,0
+78,Female,151,84,Heart Disease,0
+65,Female,198,60,Heart Disease,1
+36,Male,162,113,Hypertension,0
+21,Female,153,99,Heart Disease,0
+52,Male,175,70,Heart Disease,0
+81,Female,174,118,Healthy,1
+66,Male,179,97,Hypertension,1
+34,Male,160,69,Diabetes,1
+61,Female,156,116,Healthy,1
+47,Male,180,93,Healthy,1
+63,Male,193,82,Diabetes,0
+23,Female,159,110,Healthy,0
+54,Male,188,58,Hypertension,0
+41,Female,162,117,Heart Disease,1
+63,Female,180,84,Hypertension,1
+70,Female,156,114,Diabetes,0
+77,Male,198,57,Diabetes,1
+80,Male,191,94,Healthy,0
+49,Male,191,96,Hypertension,0
+50,Female,185,89,Hypertension,0
+84,Male,169,103,Diabetes,0
+35,Female,153,95,Hypertension,0
+42,Female,156,96,Diabetes,0
+71,Male,150,64,Hypertension,0
+75,Female,193,68,Hypertension,0
+84,Male,194,75,Hypertension,1
+63,Male,191,101,Diabetes,1
+41,Male,196,71,Healthy,1
+49,Male,162,70,Hypertension,0
+64,Male,171,100,Diabetes,0
+40,Female,170,87,Diabetes,1
+83,Female,171,69,Hypertension,0
+44,Female,177,78,Hypertension,0
+19,Male,158,100,Healthy,0
+34,Male,175,53,Diabetes,0
+50,Male,158,104,Diabetes,0
+26,Female,164,77,Heart Disease,0
+60,Male,159,53,Diabetes,0
+65,Female,173,71,Healthy,0
+56,Female,191,94,Heart Disease,0
+59,Male,157,116,Heart Disease,0
+43,Male,173,115,Heart Disease,0
+67,Female,165,83,Hypertension,0
+42,Male,198,104,Hypertension,0
+41,Female,175,50,Diabetes,0
+30,Male,176,87,Heart Disease,0
+77,Male,186,55,Healthy,0
+24,Female,153,74,Hypertension,0
+74,Male,199,66,Healthy,1
+53,Female,173,110,Healthy,0
+62,Male,168,61,Hypertension,0
+37,Female,185,55,Hypertension,0
+82,Female,188,76,Hypertension,0
+25,Male,159,57,Hypertension,0
+33,Female,174,114,Heart Disease,0
+31,Male,167,106,Heart Disease,1
+32,Male,168,89,Heart Disease,0
+83,Male,185,63,Heart Disease,0
+49,Female,159,84,Diabetes,0
+80,Female,182,97,Heart Disease,1
+68,Male,199,105,Hypertension,0
+42,Male,154,98,Healthy,1
+75,Female,196,62,Heart Disease,0
+80,Male,198,110,Diabetes,1
+79,Male,184,98,Hypertension,1
+39,Female,193,95,Healthy,0
+75,Male,183,111,Healthy,0
+75,Female,182,57,Heart Disease,0
+66,Male,170,92,Healthy,0
+69,Female,166,69,Heart Disease,1
+59,Male,171,88,Heart Disease,0
+87,Male,197,98,Hypertension,0
+32,Female,186,113,Hypertension,0
+71,Male,164,111,Diabetes,1
+77,Female,184,103,Hypertension,0
+25,Male,177,58,Hypertension,0
+70,Female,156,86,Heart Disease,0
+77,Female,181,98,Hypertension,1
+22,Female,160,90,Heart Disease,0
+85,Female,159,66,Heart Disease,0
+23,Male,158,70,Hypertension,0
+64,Male,163,100,Diabetes,0
+72,Female,162,108,Diabetes,0
+57,Female,174,88,Healthy,1
+69,Female,151,104,Healthy,1
+33,Male,184,90,Hypertension,0
+30,Male,156,88,Diabetes,1
+47,Male,170,62,Heart Disease,0
+36,Male,167,113,Healthy,1
+34,Female,152,60,Heart Disease,1
+80,Female,191,68,Healthy,0
+36,Female,188,60,Hypertension,1
+75,Male,190,95,Diabetes,0
+72,Male,198,94,Healthy,0
+79,Male,160,50,Diabetes,0
+40,Female,188,89,Heart Disease,0
+26,Female,173,68,Hypertension,1
+29,Male,195,110,Diabetes,1
+18,Female,168,61,Hypertension,0
+75,Male,153,110,Diabetes,1
+18,Male,175,82,Heart Disease,1
+51,Female,187,94,Heart Disease,0
+65,Male,191,118,Hypertension,0
+18,Female,181,57,Heart Disease,0
+33,Male,188,74,Healthy,0
+78,Female,194,95,Diabetes,1
+81,Female,195,79,Heart Disease,0
+80,Female,185,96,Healthy,1
+86,Male,189,98,Hypertension,0
+39,Male,186,96,Healthy,0
+84,Female,182,67,Hypertension,0
+43,Female,185,115,Hypertension,0
+33,Male,152,117,Diabetes,0
+68,Male,158,82,Diabetes,0
+74,Male,157,85,Healthy,0
+46,Female,182,68,Diabetes,0
+86,Male,155,77,Diabetes,0
+64,Male,190,89,Diabetes,1
+79,Female,188,64,Healthy,0
+86,Male,153,90,Heart Disease,0
+33,Male,162,88,Diabetes,0
+65,Male,198,51,Diabetes,0
+56,Female,151,112,Healthy,1
+50,Female,154,78,Heart Disease,0
+40,Female,193,115,Diabetes,0
+27,Female,176,100,Hypertension,1
+86,Female,181,59,Healthy,0
+51,Female,170,63,Diabetes,0
+69,Female,157,100,Diabetes,0
+27,Male,187,88,Hypertension,0
+36,Male,157,77,Hypertension,0
+75,Female,199,52,Healthy,0
+18,Male,152,119,Healthy,1
+86,Male,193,76,Hypertension,1
+21,Female,152,51,Healthy,0
+33,Male,171,87,Hypertension,0
+41,Male,155,52,Diabetes,1
+19,Male,151,65,Hypertension,0
+49,Male,172,89,Hypertension,1
+41,Male,193,51,Heart Disease,1
+29,Female,151,90,Hypertension,1
+67,Female,187,61,Hypertension,0
+52,Female,166,84,Heart Disease,0
+50,Male,184,114,Healthy,0
+50,Female,183,104,Heart Disease,1
+78,Male,172,94,Diabetes,0
+68,Male,179,111,Heart Disease,1
+60,Male,157,98,Diabetes,0
+29,Male,171,74,Healthy,0
+84,Female,193,72,Heart Disease,0
+82,Female,185,73,Heart Disease,0
+50,Male,154,87,Healthy,0
+57,Female,162,77,Diabetes,0
+60,Male,178,70,Heart Disease,1
+61,Female,180,103,Diabetes,0
+46,Female,196,67,Heart Disease,0
+30,Male,165,85,Hypertension,0
+29,Female,191,94,Heart Disease,1
+63,Male,179,102,Healthy,1
+19,Female,165,79,Healthy,0
+52,Male,161,109,Diabetes,1
+25,Male,166,81,Heart Disease,1
+43,Female,165,116,Diabetes,0
+51,Female,161,116,Diabetes,0
+24,Male,157,77,Hypertension,0
+85,Female,169,93,Hypertension,0
+75,Female,152,90,Healthy,1
+46,Male,165,112,Diabetes,0
+53,Male,179,72,Healthy,1
+38,Female,194,97,Heart Disease,0
+53,Male,172,81,Diabetes,0
+27,Male,177,106,Diabetes,0
+41,Male,189,82,Heart Disease,0
+81,Female,154,73,Heart Disease,1
+66,Female,169,88,Healthy,1
+53,Male,189,83,Healthy,0
+41,Female,193,105,Heart Disease,0
+40,Male,150,77,Healthy,0
+79,Female,179,86,Heart Disease,0
+54,Male,170,56,Diabetes,0
+29,Male,169,117,Diabetes,0
+72,Female,155,86,Hypertension,0
+30,Male,171,105,Diabetes,1
+40,Female,167,114,Heart Disease,0
+47,Female,157,114,Healthy,0
+34,Male,188,96,Hypertension,0
+79,Male,181,69,Healthy,0
+30,Female,182,68,Heart Disease,0
+76,Male,165,78,Diabetes,1
+36,Male,161,109,Hypertension,1
+66,Male,187,67,Heart Disease,0
+29,Male,183,84,Hypertension,0
+78,Male,163,92,Hypertension,0
+36,Female,185,60,Diabetes,1
+26,Female,182,98,Heart Disease,0
+88,Male,172,87,Healthy,0
+45,Male,199,113,Hypertension,0
+69,Male,194,118,Hypertension,0
+33,Female,151,57,Healthy,0
+86,Male,190,83,Heart Disease,1
+29,Female,170,97,Hypertension,0
+42,Female,151,105,Hypertension,0
+69,Female,176,114,Hypertension,0
+70,Male,158,80,Heart Disease,1
+40,Female,150,53,Heart Disease,1
+33,Male,160,99,Healthy,0
+74,Female,152,118,Heart Disease,1
+56,Male,172,79,Heart Disease,0
+70,Female,175,108,Diabetes,0
+59,Male,153,116,Healthy,0
+75,Female,167,94,Hypertension,0
+56,Male,155,53,Heart Disease,0
+31,Male,184,75,Hypertension,0
+22,Male,171,76,Hypertension,0
+52,Male,192,95,Diabetes,1
+35,Female,164,113,Heart Disease,0
+26,Female,171,100,Healthy,0
+75,Male,186,99,Heart Disease,0
+34,Female,191,55,Hypertension,1
+24,Male,161,108,Healthy,0
+63,Male,196,64,Heart Disease,0
+30,Female,198,79,Hypertension,1
+57,Male,191,91,Hypertension,0
+59,Male,187,86,Diabetes,0
+26,Female,167,91,Diabetes,1
+67,Male,194,84,Diabetes,0
+44,Male,184,55,Hypertension,0
+83,Male,179,117,Heart Disease,0
+22,Male,173,67,Diabetes,0
+46,Female,191,78,Heart Disease,0
+54,Female,179,108,Diabetes,0
+55,Female,163,96,Healthy,0
+25,Male,155,66,Healthy,0
+82,Male,152,71,Diabetes,1
+34,Female,165,117,Hypertension,0
+88,Male,156,118,Diabetes,0
+62,Male,163,86,Diabetes,1
+21,Male,158,98,Hypertension,0
+53,Male,164,62,Healthy,0
+87,Female,170,83,Heart Disease,1
+48,Female,184,102,Diabetes,0
+36,Female,151,100,Hypertension,0
+78,Male,176,52,Diabetes,1
+71,Female,151,91,Hypertension,0
+56,Female,184,81,Heart Disease,0
+36,Male,167,100,Heart Disease,0
+56,Male,163,95,Healthy,0
+84,Female,169,70,Hypertension,0
+62,Female,167,93,Hypertension,1
+30,Female,159,60,Healthy,0
+75,Female,174,117,Healthy,1
+37,Male,151,50,Hypertension,0
+89,Female,174,112,Healthy,1
+78,Female,182,73,Heart Disease,1
+56,Male,185,62,Diabetes,0
+18,Female,180,60,Heart Disease,0
+20,Male,163,100,Healthy,0
+79,Male,150,66,Hypertension,0
+80,Male,195,73,Hypertension,1
+42,Female,165,68,Heart Disease,1
+73,Female,195,86,Hypertension,0
+50,Male,152,57,Healthy,0
+55,Female,184,77,Heart Disease,0
+23,Female,190,54,Hypertension,0
+75,Male,155,66,Diabetes,0
+61,Male,174,85,Diabetes,1
+62,Female,162,68,Healthy,1
+49,Male,183,113,Hypertension,0
+62,Female,157,60,Healthy,0
+78,Female,170,103,Heart Disease,0
+64,Female,183,94,Diabetes,0
+38,Female,153,96,Heart Disease,0
+53,Male,174,61,Hypertension,0
+36,Male,164,70,Healthy,1
+37,Male,153,60,Healthy,0
+74,Male,194,54,Healthy,0
+35,Female,161,105,Heart Disease,1
+64,Female,181,69,Diabetes,1
+66,Male,181,90,Heart Disease,0
+31,Female,177,95,Heart Disease,0
+32,Female,162,61,Hypertension,0
+48,Female,180,119,Hypertension,1
+18,Male,163,66,Hypertension,1
+71,Male,169,68,Diabetes,0
+20,Male,167,75,Diabetes,0
+33,Female,178,97,Hypertension,1
+74,Male,155,101,Hypertension,0
+29,Male,181,119,Diabetes,0
+33,Male,178,104,Healthy,0
+89,Male,192,82,Diabetes,0
+41,Male,151,111,Diabetes,0
+45,Male,172,72,Diabetes,1
+25,Female,168,64,Hypertension,1
+53,Female,180,76,Healthy,0
+25,Male,154,113,Diabetes,0
+75,Male,168,100,Hypertension,0
+77,Female,183,102,Heart Disease,0
+67,Female,159,100,Heart Disease,0
+45,Male,174,96,Diabetes,1
+58,Male,151,53,Heart Disease,0
+81,Male,160,56,Healthy,0
+44,Male,199,84,Heart Disease,0
+80,Female,180,97,Heart Disease,1
+34,Male,164,94,Healthy,1
+50,Male,158,68,Diabetes,1
+46,Male,172,112,Diabetes,1
+30,Male,168,87,Healthy,0
+63,Female,158,116,Healthy,0
+52,Female,184,108,Healthy,0
+23,Female,170,118,Heart Disease,0
+86,Male,158,62,Healthy,0
+64,Male,177,96,Hypertension,0
+42,Female,195,110,Heart Disease,0
+83,Male,156,80,Diabetes,0
+27,Male,165,71,Diabetes,0
+73,Female,165,92,Diabetes,1
+47,Female,182,116,Heart Disease,0
+22,Female,153,103,Hypertension,0
+50,Female,153,59,Healthy,0
+82,Male,188,91,Healthy,0
+35,Male,189,113,Diabetes,0
+66,Female,166,70,Diabetes,0
+28,Male,186,115,Heart Disease,0
+43,Female,188,90,Hypertension,0
+80,Female,178,73,Healthy,0
+76,Male,185,84,Heart Disease,0
+44,Female,187,105,Healthy,0
+66,Male,188,79,Diabetes,0
+50,Male,199,106,Healthy,0
+18,Male,186,96,Hypertension,0
+38,Male,184,84,Hypertension,0
+72,Female,156,68,Diabetes,0
+23,Male,176,57,Hypertension,0
+86,Female,177,75,Hypertension,0
+22,Female,171,79,Heart Disease,1
+20,Female,163,56,Healthy,1
+70,Female,156,116,Diabetes,1
+40,Male,186,114,Diabetes,0
+70,Male,171,85,Diabetes,0
+54,Female,154,74,Diabetes,0
+34,Female,151,86,Diabetes,0
+18,Male,176,50,Hypertension,0
+68,Female,170,64,Heart Disease,0
+62,Male,187,86,Diabetes,1
+21,Female,164,62,Heart Disease,0
+79,Male,170,57,Heart Disease,1
+82,Female,159,54,Hypertension,0
+49,Female,172,109,Diabetes,0
+51,Male,188,50,Hypertension,0
+89,Female,154,85,Diabetes,0
+56,Female,150,84,Hypertension,1
+43,Male,162,115,Heart Disease,0
+51,Female,170,112,Diabetes,0
+71,Male,175,72,Healthy,1
+20,Male,199,58,Heart Disease,0
+67,Female,194,83,Healthy,1
+29,Female,170,95,Heart Disease,0
+82,Female,167,53,Hypertension,0
+71,Female,186,79,Diabetes,0
+22,Female,194,52,Heart Disease,0
+74,Female,181,63,Hypertension,0
+34,Female,185,109,Diabetes,0
+64,Male,166,94,Diabetes,1
+40,Female,184,83,Heart Disease,1
+31,Male,198,94,Diabetes,0
+83,Female,160,110,Heart Disease,0
+68,Female,170,65,Diabetes,0
+55,Male,175,115,Healthy,0
+81,Female,153,89,Hypertension,0
+55,Female,183,66,Healthy,0
+67,Male,197,83,Heart Disease,0
+47,Female,167,65,Healthy,0
+68,Female,189,109,Heart Disease,1
+80,Female,184,115,Diabetes,0
+69,Male,190,115,Diabetes,0
+55,Female,178,62,Heart Disease,0
+47,Female,178,105,Healthy,0
+68,Female,187,80,Diabetes,0
+22,Female,191,83,Hypertension,0
+46,Male,170,88,Diabetes,1
+21,Male,191,116,Hypertension,0
+27,Female,162,57,Healthy,0
+73,Female,198,104,Hypertension,1
+34,Male,190,76,Hypertension,1
+34,Male,166,102,Hypertension,0
+86,Female,158,88,Hypertension,0
+51,Male,190,114,Diabetes,0
+23,Female,150,66,Hypertension,0
+70,Male,151,79,Diabetes,0
+83,Male,197,102,Hypertension,0
+60,Male,178,62,Heart Disease,0
+40,Male,182,70,Healthy,0
+72,Female,159,68,Hypertension,0
+33,Male,199,102,Heart Disease,0
+25,Male,189,68,Hypertension,0
+21,Female,170,106,Hypertension,0
+21,Male,177,74,Hypertension,0
+73,Male,160,80,Heart Disease,0
+42,Female,183,104,Healthy,0
+84,Male,157,72,Heart Disease,0
+84,Female,171,81,Healthy,0
+44,Female,157,111,Hypertension,0
+49,Female,198,59,Diabetes,1
+67,Female,164,103,Hypertension,1
+78,Male,166,101,Healthy,0
+68,Female,172,69,Heart Disease,0
+36,Male,173,81,Hypertension,0
+38,Male,194,63,Heart Disease,0
+22,Male,168,99,Heart Disease,0
+59,Male,154,77,Heart Disease,1
+78,Male,181,102,Hypertension,0
+39,Male,193,73,Heart Disease,0
+38,Male,150,71,Heart Disease,1
+87,Male,172,79,Hypertension,1
+18,Male,186,112,Heart Disease,1
+22,Male,157,53,Hypertension,0
+29,Female,162,108,Healthy,0
+63,Female,157,57,Healthy,0
+51,Female,172,61,Healthy,0
+66,Male,192,80,Heart Disease,0
+62,Female,150,83,Diabetes,0
+44,Female,194,98,Diabetes,1
+43,Female,173,106,Heart Disease,0
+64,Male,184,75,Diabetes,0
+73,Male,173,67,Hypertension,0
+80,Male,166,87,Diabetes,0
+65,Male,154,99,Heart Disease,0
+78,Female,169,57,Heart Disease,0
+43,Female,170,90,Hypertension,0
+53,Female,189,55,Healthy,1
+18,Female,180,118,Heart Disease,0
+25,Male,195,93,Hypertension,1
+69,Male,185,113,Diabetes,0
+64,Male,160,78,Diabetes,0
+73,Female,164,77,Hypertension,0
+31,Male,168,60,Hypertension,0
+45,Male,156,114,Heart Disease,0
+19,Female,177,68,Diabetes,0
+43,Female,192,58,Hypertension,1
+31,Male,154,76,Diabetes,1
+76,Male,154,83,Hypertension,0
+73,Male,179,93,Diabetes,1
+24,Male,181,117,Healthy,0
+20,Male,157,64,Heart Disease,1
+40,Male,159,100,Diabetes,0
+35,Female,187,62,Healthy,0
+55,Female,196,98,Diabetes,1
+32,Female,181,119,Diabetes,0
+81,Male,197,105,Healthy,1
+45,Female,177,100,Diabetes,0
+56,Male,166,86,Diabetes,0
+74,Male,180,66,Heart Disease,0
+34,Female,157,107,Healthy,0
+61,Male,189,78,Healthy,0
+42,Male,174,82,Hypertension,1
+34,Female,158,109,Diabetes,0
+30,Female,151,104,Heart Disease,1
+42,Female,164,59,Diabetes,1
+85,Male,199,96,Diabetes,0
+27,Female,152,72,Hypertension,1
+84,Female,198,70,Diabetes,1
+35,Male,185,62,Heart Disease,1
+51,Female,153,82,Heart Disease,1
+25,Female,163,73,Hypertension,1
+57,Female,190,60,Diabetes,0
+59,Male,190,66,Heart Disease,0
+58,Male,174,117,Diabetes,1
+23,Male,199,96,Diabetes,0
+69,Male,159,74,Diabetes,0
+43,Female,170,70,Hypertension,0
+81,Male,185,61,Diabetes,1
+76,Male,161,86,Heart Disease,0
+73,Female,176,91,Diabetes,1
+76,Female,189,66,Heart Disease,0
+87,Female,151,97,Diabetes,0
+50,Male,162,77,Heart Disease,0
+70,Male,181,90,Heart Disease,0
+39,Male,180,96,Diabetes,0
+38,Female,165,67,Diabetes,1
+87,Female,181,62,Heart Disease,1
+87,Male,181,62,Healthy,0
+21,Female,183,80,Hypertension,0
+79,Female,160,51,Healthy,1
+79,Female,159,65,Healthy,1
+41,Male,164,58,Diabetes,0
+72,Female,166,87,Hypertension,0
+26,Female,189,103,Healthy,0
+20,Male,167,105,Diabetes,1
+48,Male,158,94,Healthy,0
+57,Female,174,83,Healthy,0
+53,Female,189,58,Diabetes,0
+41,Male,163,57,Diabetes,1
+23,Male,174,56,Diabetes,0
+83,Female,199,85,Hypertension,0
+21,Female,171,67,Healthy,0
+23,Female,179,52,Diabetes,0
+68,Female,169,77,Heart Disease,0
+79,Male,170,119,Healthy,1
+74,Female,193,93,Heart Disease,1
+83,Female,181,70,Hypertension,1
+25,Male,195,77,Diabetes,1
+43,Female,198,103,Heart Disease,0
+68,Male,170,103,Hypertension,1
+62,Female,184,114,Diabetes,0
+61,Female,181,70,Heart Disease,0
+22,Male,179,62,Heart Disease,1
+87,Male,188,106,Hypertension,0
+43,Female,198,98,Diabetes,0
+85,Female,161,103,Diabetes,0
+36,Female,190,59,Heart Disease,0
+37,Male,196,102,Heart Disease,0
+29,Female,167,93,Heart Disease,1
+64,Male,170,96,Diabetes,1
+18,Male,162,102,Hypertension,0
+31,Female,170,95,Hypertension,0
+81,Male,157,62,Diabetes,0
+55,Female,195,86,Healthy,1
+54,Female,189,73,Hypertension,0
+28,Female,195,51,Heart Disease,0
+20,Female,156,63,Healthy,0
+50,Female,172,59,Healthy,0
+23,Male,193,84,Hypertension,0
+67,Male,181,74,Healthy,1
+27,Female,160,52,Healthy,0
+22,Female,171,66,Hypertension,0
+40,Male,171,61,Hypertension,0
+27,Male,192,103,Healthy,1
+61,Male,174,73,Heart Disease,0
+19,Male,171,78,Diabetes,0
+30,Female,177,92,Healthy,0
+57,Female,178,74,Healthy,0
+19,Male,162,109,Heart Disease,1
+82,Female,167,114,Healthy,0
+80,Male,151,77,Healthy,1
+34,Female,178,65,Diabetes,0
+26,Male,170,96,Diabetes,1
+32,Female,164,107,Diabetes,0
+41,Male,176,76,Hypertension,1
+55,Male,199,102,Hypertension,0
+52,Female,180,91,Diabetes,0
+66,Male,164,108,Diabetes,1
+86,Female,172,96,Hypertension,0
+79,Female,173,83,Heart Disease,0
+77,Male,193,86,Healthy,0
+67,Female,162,55,Healthy,0
+26,Female,171,56,Diabetes,0
+51,Female,192,74,Heart Disease,0
+52,Female,186,82,Hypertension,0
+18,Female,182,104,Diabetes,1
+57,Male,152,107,Heart Disease,0
+81,Female,168,56,Heart Disease,1
+39,Female,172,106,Heart Disease,1
+77,Female,178,61,Hypertension,0
+81,Female,179,65,Hypertension,0
+89,Female,188,92,Healthy,0
+28,Male,193,56,Healthy,0
+31,Female,196,100,Heart Disease,1
+77,Male,174,81,Heart Disease,0
+47,Male,186,57,Hypertension,0
+52,Male,196,94,Healthy,0
+54,Male,157,108,Heart Disease,0
+22,Female,191,53,Healthy,0
+43,Male,165,116,Healthy,0
+79,Male,157,78,Heart Disease,1
+21,Female,150,78,Hypertension,0
+59,Female,193,77,Heart Disease,0
+35,Female,154,93,Heart Disease,1
+57,Male,152,53,Healthy,0
+89,Female,150,58,Heart Disease,1
+56,Female,153,54,Hypertension,1
+31,Male,189,105,Heart Disease,1
+49,Female,184,99,Hypertension,1
+68,Female,181,64,Hypertension,0
+55,Female,191,81,Healthy,1
+40,Female,183,77,Diabetes,0
+80,Male,192,71,Diabetes,1
+32,Female,174,66,Healthy,1
+42,Female,159,108,Heart Disease,1
+34,Male,170,106,Healthy,1
+83,Female,195,75,Hypertension,0
+70,Male,188,74,Diabetes,1
+68,Female,176,59,Healthy,0
+56,Male,176,94,Heart Disease,1
+68,Male,151,60,Healthy,0
+87,Male,190,102,Diabetes,0
+23,Male,197,117,Healthy,0
+84,Female,162,77,Healthy,0
+24,Male,158,114,Diabetes,1
+68,Female,185,98,Hypertension,0
+89,Male,171,96,Hypertension,0
+59,Male,191,101,Diabetes,0
+81,Male,175,103,Healthy,1
+32,Female,161,109,Diabetes,0
+46,Male,166,106,Hypertension,0
+50,Female,163,96,Heart Disease,0
+44,Female,163,80,Healthy,0
+53,Female,183,95,Hypertension,0
+46,Female,169,75,Healthy,0
+55,Female,160,54,Diabetes,0
+74,Female,165,101,Heart Disease,1
+44,Female,180,103,Diabetes,1
+72,Female,155,82,Heart Disease,0
+50,Female,168,99,Healthy,1
+85,Male,186,87,Healthy,0
+83,Male,153,76,Diabetes,0
+27,Male,196,64,Heart Disease,0
+22,Male,153,110,Heart Disease,0
+55,Male,169,70,Healthy,0
+30,Female,159,95,Diabetes,0
+48,Female,173,118,Heart Disease,0
+64,Female,184,55,Healthy,1
+69,Female,175,87,Hypertension,0
+73,Female,186,111,Diabetes,0
+32,Female,187,111,Hypertension,0
+46,Female,170,95,Diabetes,0
+25,Male,189,62,Healthy,0
+22,Male,188,52,Heart Disease,0
+46,Male,170,55,Heart Disease,1
+64,Male,159,57,Heart Disease,0
+85,Female,187,93,Diabetes,0
+62,Female,195,82,Healthy,0
+19,Female,153,99,Hypertension,0
+44,Male,194,60,Healthy,0
+53,Female,169,77,Hypertension,0
+53,Female,166,119,Diabetes,0
+43,Female,156,90,Diabetes,0
+60,Male,153,65,Hypertension,0
+44,Female,178,117,Hypertension,0
+86,Male,163,97,Hypertension,0
+37,Male,152,105,Healthy,0
+28,Male,173,113,Hypertension,0
+55,Male,186,108,Diabetes,0
+23,Female,165,111,Diabetes,0
+89,Male,153,60,Heart Disease,0
+40,Male,173,67,Hypertension,0
+64,Female,183,68,Healthy,0
+63,Female,179,104,Healthy,1
+29,Male,167,75,Healthy,0
+30,Female,168,55,Heart Disease,1
+79,Male,180,53,Diabetes,0
+77,Male,168,78,Healthy,0
+60,Male,198,108,Diabetes,0
+85,Male,195,66,Heart Disease,0
+22,Female,168,92,Hypertension,0
+54,Male,171,115,Hypertension,0
+89,Female,173,83,Hypertension,0
+48,Female,194,57,Healthy,0
+26,Female,161,62,Hypertension,1
+68,Female,179,57,Healthy,1
+46,Male,187,114,Heart Disease,0
+57,Female,180,92,Heart Disease,0
+58,Male,185,88,Healthy,0
+28,Female,168,108,Diabetes,0
+40,Female,197,93,Hypertension,0
+18,Male,194,58,Hypertension,1
+63,Male,185,86,Hypertension,0
+38,Male,179,85,Healthy,0
+53,Female,198,77,Heart Disease,0
+71,Female,182,91,Hypertension,1
+74,Male,167,92,Heart Disease,0
+18,Male,198,91,Hypertension,0
+80,Male,177,115,Hypertension,1
+71,Male,196,104,Healthy,0
+72,Female,160,97,Diabetes,1
+57,Male,194,71,Healthy,0
+32,Male,182,76,Hypertension,1
+38,Male,166,116,Hypertension,0
+64,Male,155,62,Diabetes,0
+70,Female,153,94,Heart Disease,1
+26,Male,169,59,Heart Disease,0
+69,Female,197,58,Hypertension,0
+74,Male,196,103,Heart Disease,0
+43,Male,176,76,Hypertension,0
+58,Female,164,83,Diabetes,0
+52,Male,155,50,Diabetes,0
+80,Female,196,81,Hypertension,0
+42,Female,163,116,Diabetes,0
+55,Male,160,69,Healthy,0
+19,Female,188,84,Healthy,0
+24,Female,158,66,Diabetes,1
+51,Female,175,67,Hypertension,1
+34,Female,165,94,Hypertension,1
+60,Female,154,102,Diabetes,0
+76,Female,159,117,Heart Disease,0
+68,Female,199,114,Healthy,0
+71,Female,152,50,Heart Disease,0
+41,Male,162,107,Hypertension,0
+42,Male,192,75,Hypertension,0
+88,Female,198,69,Heart Disease,0
+69,Male,179,59,Diabetes,1
+87,Female,194,108,Heart Disease,0
+50,Female,155,90,Heart Disease,0
+66,Male,166,54,Healthy,0
+46,Female,194,114,Healthy,0
+80,Female,168,66,Heart Disease,1
+39,Female,191,71,Heart Disease,0
+43,Female,184,90,Hypertension,0
+45,Male,195,117,Healthy,0
+66,Female,175,118,Healthy,0
+88,Female,154,60,Hypertension,0
+66,Female,178,105,Diabetes,1
+37,Male,186,100,Healthy,1
+80,Female,169,70,Healthy,1
+78,Male,198,75,Diabetes,0
+66,Male,170,68,Healthy,1
+88,Female,159,109,Healthy,0
+18,Female,154,96,Diabetes,0
+30,Male,185,75,Diabetes,0
+68,Female,155,89,Heart Disease,0
+73,Male,175,54,Hypertension,0
+79,Male,153,70,Hypertension,1
+49,Female,188,53,Diabetes,0
+47,Female,188,72,Diabetes,0
+46,Male,199,64,Healthy,0
+66,Male,184,57,Heart Disease,1
+62,Male,150,90,Heart Disease,1
+47,Male,173,68,Diabetes,1
+33,Female,185,95,Healthy,0
+57,Female,155,77,Healthy,0
+36,Female,190,117,Hypertension,0
+35,Female,195,64,Hypertension,0
+18,Female,193,86,Healthy,0
+64,Male,180,50,Hypertension,0
+83,Female,169,116,Diabetes,0
+55,Female,173,73,Healthy,1
+68,Female,174,76,Hypertension,0
+80,Female,185,89,Heart Disease,0
+21,Female,170,112,Healthy,0
+18,Male,179,110,Healthy,1
+25,Male,173,85,Heart Disease,1
+46,Male,193,73,Diabetes,1
+72,Female,191,73,Heart Disease,1
+20,Male,179,53,Healthy,0
+49,Male,171,116,Diabetes,0
+27,Female,177,83,Hypertension,0
+51,Female,156,106,Hypertension,0
+72,Female,184,98,Hypertension,0
+49,Male,177,102,Healthy,0
+67,Male,163,72,Heart Disease,1
