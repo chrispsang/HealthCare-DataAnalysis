@@ -27,10 +27,12 @@ The dataset consists of synthetic data for 1000 patients with the following feat
 ## Visualizations
 ![Feature Importances from Random Forest](feature_importance.png)
 *Feature Importances from Random Forest*
+
 This bar chart displays the importance of various features in predicting patient outcomes using a Random Forest model. Features like Age, BMI, and Weight have higher importance scores, indicating they are more influential in predicting the outcomes compared to other features like Gender and Diagnosis.
 
 ![Correlation Heatmap](correlation_heatmap.png)
 *Correlation Heatmap*
+
 This heatmap shows the correlation coefficients between different features in the dataset. The color intensity represents the strength of the correlation, with red indicating a positive correlation and blue indicating a negative correlation. For example, the strong positive correlation between Weight and BMI (0.81) indicates that as weight increases, BMI also increases.
 
 ## Installation 
