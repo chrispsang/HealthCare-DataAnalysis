@@ -80,13 +80,13 @@ It is recommended to use a virtual environment to manage dependencies. You can s
     conda activate healthcare_analysis
     ```
 
-## Step 3: Install Dependencies
+### Step 3: Install Dependencies
 
 Install the required packages using the `requirements.txt` file:
 ```sh
 pip install -r requirements.txt
 ```
-## Step 4: Run the Jupyter Notebook
+### Step 4: Run the Jupyter Notebook
 Launch Jupyter Notebook and open the `healthcare.ipynb` file:
 ```sh
 jupyter notebook
